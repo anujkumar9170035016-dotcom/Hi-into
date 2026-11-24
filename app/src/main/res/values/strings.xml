@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PingBridge</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_updates">Updates</string>
+    <string name="tab_calls">Calls</string>
+    <string name="search_chats_hint">Search chats or messages…</string>
+    <string name="search_updates_hint">Search updates…</string>
+    <string name="search_calls_hint">Search call history…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_unread">Unread</string>
+    <string name="filter_favorites">Favorites</string>
+    <string name="filter_groups">Groups</string>
+    <string name="archived_chats">Archived</string>
+    <string name="type_a_message">Message</string>
+    <string name="type_sms_message">Text (SMS)</string>
+    <string name="online">Online</string>
+    <string name="typing">typing…</string>
+    <string name="recording_audio">recording audio…</string>
+    <string name="offline_mode_status">Offline • SMS / Cellular Call mode</string>
+    <string name="offline_input_notice">No internet — messages fall back to standard SMS &amp; calls use cellular (tel:)</string>
+    <string name="my_status">My status</string>
+    <string name="tap_to_add_status">Tap to add status update</string>
+    <string name="recent_updates">Recent updates</string>
+    <string name="viewed_updates">Viewed updates</string>
+    <string name="recent_calls">Recent</string>
+    <string name="create_call_link">Create call link</string>
+    <string name="share_link_desc">Share a link for your PingBridge call</string>
+    <string name="end_to_end_encrypted">Your personal messages are end-to-end encrypted</string>
+</resources>
